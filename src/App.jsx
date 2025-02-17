@@ -8,9 +8,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    // <Spotifyapi/>
+    <Spotifyapi/>
     // <FetchGame/>
-    <Calculator/>
+    // <Calculator/>
   )
 }
 
